@@ -1,5 +1,5 @@
-print("xd")
-print("xd2")
+print("xd 1")
+print("xd 2")
 print("3333")
 print("osiem")
 print("555555555555")
